@@ -1,4 +1,4 @@
-# 🚀 JavaScript Learning Journey
+# JavaScript Learning Journey
 
 > 🇧🇷 Português | 🇺🇸 [English below](#-javascript-learning-journey-1)
 
