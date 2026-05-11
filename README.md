@@ -70,7 +70,6 @@ node index.js
 
 ### 📬 Contato
 
-Feito com 💛 enquanto aprendo JavaScript do zero.  
 Sinta-se à vontade para abrir uma *issue* com sugestões ou correções!
 
 ---
@@ -148,5 +147,4 @@ node index.js
 
 ### 📬 Contact
 
-Made with 💛 while learning JavaScript from scratch.  
 Feel free to open an *issue* with suggestions or corrections!
